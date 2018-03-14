@@ -6,5 +6,5 @@
  * Time: 3:08 PM
  */
 echo "Works!";
-
+echo "Like it should.";
 ?>
